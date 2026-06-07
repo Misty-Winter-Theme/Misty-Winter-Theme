@@ -57,10 +57,10 @@ This document defines the color schemes for the Misty Winter theme variations.
 ---
 
 ## Misty Winter Dark (Dark)
-| --- | --- |
 
 ### UI Elements
 | Role | Color |
+| --- | --- |
 | Background | `#2a343a` |
 | Foreground | `#b4c3c3` |
 | Surface (Primary) | `#20282d` |
